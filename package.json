@@ -1,0 +1,9 @@
+{
+  "name": "Elias-Servant",
+  "description": "Robot for Elias automation.",
+  "author": "Zhou Honglin",
+  "version": "0.1.0",
+  "dependencies": {
+    "express": "4.x"
+  }
+}
